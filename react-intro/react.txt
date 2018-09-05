@@ -1,0 +1,9 @@
+State: The current data stored in relation to a particular part of the program
+
+Stateful Component: A component which stores and updates the information which it uses to render HTMl
+
+Lifecycle: The process where a component is created, updated, and destroyed
+
+Lifecycle Method: A function that is invoked at some point during a component's lifecycle
+
+Conditional Rendering: UI that renders only if a condition is met
